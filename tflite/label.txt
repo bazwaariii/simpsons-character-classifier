@@ -1,0 +1,10 @@
+bart_simpson
+disco_stu
+homer_simpson
+krusty_the_clown
+lisa_simpson
+marge_simpson
+moe_szyslak
+ned_flanders
+nelson_muntz
+ralph_wiggum

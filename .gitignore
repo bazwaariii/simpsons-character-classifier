@@ -1,0 +1,25 @@
+# Python cache & virtual environment
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+.virtual_documents/
+
+# Raw and split dataset directories (downloaded via Kaggle/splitfolders)
+subset_simpsons/
+dataset_split_simpsons/
+submission_simpsons/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE config
+.vscode/
+.idea/
